@@ -25,10 +25,10 @@ feature_row:
     title: "Question 3"
     excerpt: "Are the learnt relationships between the modelled inputs and outputs consistent with those from Earth Observation data?"
 feature_row2:
-  - image_path: /assets/images/top_level.jpg
+  - image_path: /assets/images/top_level.png
     alt: "placeholder image 2"
     title: "Developments"
-    excerpt: " Blah "
+    excerpt: "In order to answer these questions, we will undertake following developments:"
 ---
 
 
@@ -39,7 +39,6 @@ feature_row2:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
-
 
 * We will produce land surface model simulations from JULES over Europe for a range of terrestrial essential climate variables. 
 * We will develop, train and evaluate machine learning models against the simulated land surface parameters, providing the capability to successfully emulate the complex physical process-based models.
