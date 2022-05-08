@@ -14,10 +14,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Digital Twin for African Drought
+title: ESA-IMITATE
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  NERC Digital Twin Case Study
+  Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "NERC Digital Twin Case Study"
+  bio    : "ESA-IMITATE"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
