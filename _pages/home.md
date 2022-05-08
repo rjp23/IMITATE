@@ -7,8 +7,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/globe2.jpg
-  actions:
-      url: "https://rjp23.github.io/IMITATE/"
 excerpt: "Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems"
 intro: 
   - excerpt: 'In this project, we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
