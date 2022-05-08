@@ -31,9 +31,8 @@ feature_row:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
 
-![schematic](/assets/images/top_level.png){:class="img-responsive"}
+![schematic](/assets/images/top_level.png){: style="float: left"}
 
 * We will produce land surface model simulations from JULES over Europe for a range of terrestrial essential climate variables. 
 * We will develop, train and evaluate machine learning models against the simulated land surface parameters, providing the capability to successfully emulate the complex physical process-based models.
