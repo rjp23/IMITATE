@@ -21,29 +21,9 @@ team_members:
     title: "<center>Prof Tristan Quaife</center>"
     excerpt: "<center>Co-Investigator <br /> NCEO-Reading</center>"
   - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Prof Emily Black</center>"
-    excerpt: "<center>Co-Investigator <br /> NCAS-Reading</center>"
-  - image_path: assets/images/user.png
-    alt: "placeholder image 1"
-    title: '<center>Phillip Kershaw</center>'
-    excerpt: "<center>Co-Investigator <br /> CEDA</center>"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 2"
-    title: "<center>Dr Andrew Hartley</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center>"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Camilla Mathison</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center>"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 2"
-    title: "<center>Dr Eleanor Burke</center>"
-    excerpt: "<center>Project Partner <br /> Met Office</center>"
-  - image_path: /assets/images/user.png
-    alt: "placeholder image 1"
-    title: "<center>Dr Brian Matthews</center>"
-    excerpt: "<center>Project Partner <br /> DAFNI-STFC</center>"
+    alt: "placeholder image 4"
+    title: "<center>Dr Natalie Douglas</center>"
+    excerpt: "<center>Project Scientist <br /> NCEO-Reading</center>"
 ---
 
 
