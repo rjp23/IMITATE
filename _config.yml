@@ -18,8 +18,6 @@ title: ESA-IMITATE
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: air
 search: true
 
