@@ -32,8 +32,7 @@ feature_row:
 {% include feature_row %}
 
 
-![image](assets/images/top_level.png){: style="float: left"}
-
+![image](assets/images/top_level.png){: style="float: left"} In order to answer the above questions, we will undertake the following activities:
 * We will produce land surface model simulations from JULES over Europe for a range of terrestrial essential climate variables. 
 * We will develop, train and evaluate machine learning models against the simulated land surface parameters, providing the capability to successfully emulate the complex physical process-based models.
 * These emulators will be used to investigate the complex emergent relationships and feedbacks inherent in such simulations to gain an increased understanding of the underlying Earth System processes.
