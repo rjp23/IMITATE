@@ -28,11 +28,7 @@ feature_row2:
   - image_path: /assets/images/top_level.jpg
     alt: "placeholder image 2"
     title: "Developments"
-    excerpt: "* We will produce land surface model simulations from JULES over Europe for a range of terrestrial essential climate variables. * We will develop, train and evaluate machine learning models against the simulated land surface parameters, providing the capability to successfully emulate the complex physical process-based models.
-* These emulators will be used to investigate the complex emergent relationships and feedbacks inherent in such simulations to gain an increased understanding of the underlying Earth System processes.
-* We will use these emulators to test whether data from satellite-based essential climate variables (e.g. ESA-CCI) are consistent with the relationships learnt from the land surface models.
-* We will produce an Emulated-GPP (gross primary productivity) data product based on EO data, using the relationships learnt from the land surface model.
-"
+    excerpt:""
 ---
 
 
@@ -43,3 +39,9 @@ feature_row2:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+* We will produce land surface model simulations from JULES over Europe for a range of terrestrial essential climate variables. 
+* We will develop, train and evaluate machine learning models against the simulated land surface parameters, providing the capability to successfully emulate the complex physical process-based models.
+* These emulators will be used to investigate the complex emergent relationships and feedbacks inherent in such simulations to gain an increased understanding of the underlying Earth System processes.
+* We will use these emulators to test whether data from satellite-based essential climate variables (e.g. ESA-CCI) are consistent with the relationships learnt from the land surface models.
+* We will produce an Emulated-GPP (gross primary productivity) data product based on EO data, using the relationships learnt from the land surface model.
