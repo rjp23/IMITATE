@@ -8,32 +8,36 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/globe2.jpg
   actions:
-    - label: "<i class='fas fa-rocket'></i> Launch Digital Twin"
-      url: "https://rjp23.github.io/NERC-Digital-Twin/"
-excerpt: "A Digital Twin for African Drought - Democratising Complex Model Data with Machine Learning to Aid Decision Support"
+      url: "https://rjp23.github.io/IMITATE/"
+excerpt: "Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems"
 intro: 
-  - excerpt: 'This project brings together scientists from [NCEO](https://www.nceo.ac.uk/), [NCAS](https://ncas.ac.uk/) and the [UK Met Office](https://www.metoffice.gov.uk/weather/climate/met-office-hadley-centre/index) along with expertise on data and IT infrastructure from [CEDA](https://www.ceda.ac.uk/) and [STFC](https://dafni.ac.uk/) in order to further develop and deploy an innovative Digital Twin application aimed at providing decision support related to African drought.'
+  - excerpt: 'In this project, we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
 feature_row:
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 1"
-    title: "Objective 1"
-    excerpt: "Development of a web-based interface to allow non-expert users to utilise the capabilities of the model emulators"
+    title: "Question 1"
+    excerpt: "How well can machine learning methods emulate physical process-based land surface models, focused over Europe?"
   - image_path: /assets/images/satellite.jpg
     alt: "placeholder image 2"
-    title: "Objective 2"
-    excerpt: "Use of machine-learning emulator for process explainability and model development"
+    title: "Question 2"
+    excerpt: "Can explainable AI techniques provide new insights into process understanding when combining land surface models and Earth Observation data?"
   - image_path: /assets/images/savannah.jpg
-    title: "Objective 3"
-    excerpt: "Stakeholder engagement and use case development"
+    title: "Question 3"
+    excerpt: "Are the learnt relationships between the modelled inputs and outputs consistent with those from Earth Observation data?"
 feature_row2:
   - image_path: /assets/images/track.jpg
     alt: "placeholder image 2"
-    title: "A Digital Twin for African Drought"
-    excerpt: "We will deploy our Digital Twin as a web-based application on the JASMIN Cloud infrastructure. Users will be able to, at the simple click of a button, simulate soil moisture time series over continental Africa. Flexibility will allow simulations for either the recent historical period, driven by TAMSAT rainfall data, or over the next century based on a range of ISIMIP climate scenarios."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Developments"
+    excerpt: "•	We will produce land surface model simulations from JULES over Europe for a range of terrestrial essential climate variables.
+•	We will develop, train and evaluate machine learning models against the simulated land surface parameters, providing the capability to successfully emulate the complex physical process-based models.
+•	These emulators will be used to investigate the complex emergent relationships and feedbacks inherent in such simulations to gain an increased understanding of the underlying Earth System processes.
+•	We will use these emulators to test whether data from satellite-based essential climate variables (e.g. ESA-CCI) are consistent with the relationships learnt from the land surface models.
+•	We will produce an Emulated-GPP (gross primary productivity) data product based on EO data, using the relationships learnt from the land surface model.
+"
 ---
+
+
+
 
 {% include feature_row id="intro" type="center" %}
 
