@@ -8,19 +8,19 @@ header:
   overlay_image: /assets/images/globe2.jpg
 permalink: /team/
 team_members:
-  - image_path: assets/images/user.png
+  - image_path: assets/images/rob.jpg
     alt: "placeholder image 1"
     title: '<center>Dr Robert Parker</center>'
     excerpt: "<center>Project Lead <br /> NCEO-Leicester</center>"
-  - image_path: /assets/images/user.png
+  - image_path: /assets/images/cristina.jpg
     alt: "placeholder image 2"
     title: "<center>Dr Cristina Ruiz Villena</center>"
     excerpt: "<center>Project Scientist <br /> NCEO-Leicester</center>"
-  - image_path: /assets/images/user.png
+  - image_path: /assets/images/tristan.jpg
     alt: "placeholder image 1"
     title: "<center>Prof Tristan Quaife</center>"
     excerpt: "<center>Co-Investigator <br /> NCEO-Reading</center>"
-  - image_path: /assets/images/user.png
+  - image_path: /assets/images/natalie.jpg
     alt: "placeholder image 4"
     title: "<center>Dr Natalie Douglas</center>"
     excerpt: "<center>Project Scientist <br /> NCEO-Reading</center>"
