@@ -11,15 +11,15 @@ excerpt: "Introducing Machine-learning Into Targeted Analysis for Terrestrial Ec
 intro: 
   - excerpt: 'In this project, we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
 feature_row:
-  - image_path: assets/images/globe1.jpg
+  - image_path: assets/images/forest.jpg
     alt: "placeholder image 1"
     title: "Question 1"
     excerpt: "How well can machine learning methods emulate physical process-based land surface models, focused over Europe?"
-  - image_path: /assets/images/satellite.jpg
+  - image_path: assets/images/globe1.jpg
     alt: "placeholder image 2"
     title: "Question 2"
     excerpt: "Can explainable AI techniques provide new insights into process understanding when combining land surface models and Earth Observation data?"
-  - image_path: /assets/images/savannah.jpg
+  - image_path: /assets/images/satellite.jpg
     title: "Question 3"
     excerpt: "Are the learnt relationships between the modelled inputs and outputs consistent with those from Earth Observation data?"
 ---
