@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/globe2.jpg
 excerpt: "Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems"
 intro: 
-  - excerpt: 'In this project, we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
+  - excerpt: 'In this [ESA project](https://eo4society.esa.int/projects/imitate/), we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
 feature_row:
   - image_path: assets/images/forest.jpg
     alt: "placeholder image 1"
